@@ -26,21 +26,9 @@
 
 ## 🚀 Demo
 
-[**Live Demo**](https://your-deployed-app-url.com) | [**Video Walkthrough**](https://your-video-url.com)
+[**Live Demo**](https://gym30day.netlify.app/)
 
 ## 📸 Screenshots
-
-### Dashboard
-
-![Dashboard Screenshot](./screenshots/dashboard.png)
-
-### Exercise Library
-
-![Exercise Library Screenshot](./screenshots/exercises.png)
-
-### Workout Tracker
-
-![Workout Tracker Screenshot](./screenshots/workout.png)
 
 ## 🛠️ Tech Stack
 
