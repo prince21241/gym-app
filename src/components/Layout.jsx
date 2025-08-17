@@ -3,9 +3,9 @@ export default function Layout(props) {
 
   const header = (
     <header>
-      <h1 className="text-gradient">GYM APP</h1>
+      <h1 className="text-gradient">30-Day Challenge</h1>
       <p>
-        <strong>30 Simple Workout program</strong>
+        <strong>The 30 Simple Workouts Program</strong>
       </p>
     </header>
   );
@@ -13,20 +13,13 @@ export default function Layout(props) {
   const footer = (
     <footer>
       <p>
-        Built by{" "}
-        <a
-          href="https://princeraval.netlify.app/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        Developed By {""}
+        <a href="https://princeraval.netlify.app/" target="_blank">
           Prince Raval
-        </a>{" "}
-        using{" "}
-        <a
-          href="https://www.fantacss.smoljames.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        </a>
+        <br />
+        Styled with{" "}
+        <a href="https://www.fantacss.smoljames.com" target="_blank">
           FantaCSS
         </a>
       </p>
